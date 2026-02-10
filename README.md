@@ -50,7 +50,11 @@ https://www.youtube.com/shorts/_4LwvI01vus
 - GPIO21 → 220Ω resistor → LED → GND
 
 ---
+### Authors
+Ahmed Elag  
+Marc Niven  
 
+*This project was originally completed as part of a university course and is shared for educational and portfolio purposes.*
 ## Software Requirements
 - Raspberry Pi OS
 - Python 3
